@@ -6,6 +6,8 @@ Hallo Everyone! 👋 </br>
 🔭 Here I am working on a small project with a company,</br>
  
  where I was trusted to create a company profile for the company.
+ 
+ you can see the language i use.
 </p>
 
 
