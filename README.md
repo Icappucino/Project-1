@@ -3,8 +3,9 @@ Parallax-Scrolling Company Profile
 
 Hallo Everyone! 👋 </br>
 <p>
-Here I am working on a small project with a company,</br>
-where I was trusted to create a company profile for the company.
+🔭 Here I am working on a small project with a company,</br>
+ 
+ where I was trusted to create a company profile for the company.
 </p>
 
 
